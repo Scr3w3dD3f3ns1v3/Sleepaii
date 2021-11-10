@@ -42,7 +42,7 @@ My name is kenzo but you can call me sleepaii, I was born in 2009, currently in 
 <br/>
 
 ## Stats 📈
-![Main stats](https://github-readme-stats.vercel.app/api?usernameleepaii&show_icons=true&theme=radical)
+![Main stats](https://github-readme-stats.vercel.app/api?username=sleepaii&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepaii&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
